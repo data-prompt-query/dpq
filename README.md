@@ -3,7 +3,7 @@
 dpq is a Python library that makes it easy to process data and engineer features using
 generative AI.
 
-![dpq_demo](https://github.com/data-prompt-query/pre-release/assets/15915676/ea08d1ec-bf2d-473d-b521-d1ae9581050a)
+![dpq_demo](https://github.com/data-prompt-query/dpq/assets/15915676/09d4936c-360a-460f-8abe-15e07af14306)
 
 ## installation
 ```bash
