@@ -5,6 +5,11 @@ generative AI.
 
 ![dpq_demo](https://github.com/data-prompt-query/pre-release/assets/15915676/ea08d1ec-bf2d-473d-b521-d1ae9581050a)
 
+## installation
+```bash
+pip install dpq
+```
+
 ## quick start
 ```python
 import dpq
