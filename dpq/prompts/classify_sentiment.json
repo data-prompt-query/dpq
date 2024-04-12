@@ -1,0 +1,22 @@
+[
+    {
+        "role": "system",
+        "content": "You are a sentiment classifier. You classify statements as having either positive or negative overall sentiment. You return only one of two words: positive, negative. do not return any other word except for one of these."
+    },
+    {
+        "role": "user",
+        "content": "I like dpt."
+    },
+    {
+        "role": "assistant",
+        "content": "positive"
+    },
+    {
+        "role": "user",
+        "content": "I hate dpt."
+    },
+    {
+        "role": "assistant",
+        "content": "negative"
+    }
+]

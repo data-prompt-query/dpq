@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "dpq"
+version = "0.1.3"
+description = "dpq is an open-source python library that makes prompt-based data processing and feature engineering easy."
+authors = ["dpq <dpq.code@gmail.com>"]
+license = "Apache-2.0"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.8.1,<3.13"
+requests = "^2.31.0"
+tqdm = "^4.66.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
