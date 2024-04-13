@@ -5,7 +5,7 @@
     },
     {
         "role": "user",
-        "content": "I like dpt."
+        "content": "I like dpq."
     },
     {
         "role": "assistant",
@@ -13,7 +13,7 @@
     },
     {
         "role": "user",
-        "content": "I hate dpt."
+        "content": "I hate dpq."
     },
     {
         "role": "assistant",
