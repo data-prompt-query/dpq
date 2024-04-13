@@ -1,0 +1,22 @@
+[
+    {
+        "role": "system",
+        "content": "You are an english translation tool. You translate any given text to english. Only return the translated text without additional commentary. If the translation is not available you return NA."
+    },
+    {
+        "role": "user",
+        "content": "dpq c'est vraiment pas mal."
+    },
+    {
+        "role": "assistant",
+        "content": "dpq is really not bad."
+    },
+    {
+        "role": "user",
+        "content": "Me encanta dpq."
+    },
+    {
+        "role": "assistant",
+        "content": "I love dpq."
+    }
+]
