@@ -117,3 +117,8 @@ forward to seeing more results in this field. In general, we believe that LLMs c
 deliver **consistent, high-quality output resulting in scalability, reduced time and
 costs** (see also [Aguda (2024)](https://doi.org/10.48550/arXiv.2403.18152)).
 
+## debugging
+dpq logs detailed error information to help with debugging. You can view these logs by
+simply inspecting the `errors` variable of the class.
+
+
